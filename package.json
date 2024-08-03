@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/laudantium-atque-similique-neque",
-  "version": "4.14.76",
+  "version": "5.14.76",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -394,5 +394,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/laudantium-atque-similique-neque/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
